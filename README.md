@@ -1,12 +1,21 @@
-Welcome to My GitHub! 👋
-Hi there! I'm a tech enthusiast with a passion for programming, artificial intelligence, and design. I enjoy creating innovative projects that combine creativity, problem-solving, and logic.
+# Hi, I'm Mohammad Mohammadi 👋
 
-🌟 About Me
-Interests: AI, game development, smart technologies, networks, and system management.
-Skills: Proficient in C++, JavaScript, and exploring C# for game development.
-Learning: Always curious about new technologies, Linux, and mathematical concepts.
-🔧 Projects & Goals
-Here, you'll find a mix of projects, from mathematical concepts to game development and creative design experiments. My focus is on building smart, adaptive systems that solve real-world challenges while being fun and engaging.
+I'm an Information Systems Engineering student at Sakarya University, passionate about solving real-world problems through code and creativity. My journey spans Esfahan, Kabul, and Sakarya, shaping my curiosity and drive for innovation.
 
-🎯 Let's Connect
-Feel free to explore my repositories and reach out for collaboration or feedback. Let's innovate together!
+**🔹 Specialties:**  
+- Programming: Python (favorite!), C++, C#  
+- Web Design: HTML, CSS, JavaScript  
+- Machine Learning (KNN, Neural Networks—often from scratch!)
+
+**🏆 Notable Achievements:**  
+- Winner, Middle School Maths Olympiad  
+- IT Competition Winner, Kabul University  
+- Proud creator of hands-on AI & ML projects
+
+**💡 About Me:**  
+Always eager to learn, create, and share—whether it's building models from the ground up or crafting interactive web experiences. Music lover, public speaker, and future academic tutor.
+
+[LinkedIn](https://www.linkedin.com/in/mohammad-mohammadi-42673021a) • [Twitter](https://x.com/Mohamma04287387)
+
+---
+*Let's connect and make something awesome!*
