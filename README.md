@@ -1,20 +1,64 @@
-# Hi, I'm Mohammad Mohammadi 👋
+<div align="center">
 
-I'm an Information Systems Engineering student at Sakarya University, passionate about solving real-world problems through code and creativity. My educational journey so far has shaped my curiosity and drive for innovation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hey+there!+I'm+Mohammad+Mohammadi+👋;ISE+Student+%7C+ML+Builder+%7C+Web+Crafter)](https://git.io/typing-svg)
 
-**🔹 Specialties:**  
-- Programming: Python (favorite!), C++, C#  
-- Web Design: HTML, CSS, JavaScript  
-- Machine Learning (Classifiers, Regressors, Neural Networks—often from scratch!)
+<img src="https://komarev.com/ghpvc/?username=MamoMGD1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**🏆 Notable Achievements:**  
-- Winner, Middle School Maths Olympiad  
-- Proud creator of hands-on AI & ML projects
-
-**💡 About Me:**  
-Always eager to learn, create, and share—whether it's building models from the ground up or crafting interactive web experiences. Music lover, public speaker, and future academic tutor.
-
-[LinkedIn](https://www.linkedin.com/in/mohammad-mohammadi-42673021a) • [Twitter](https://x.com/Mohamma04287387)
+</div>
 
 ---
-*Let's connect and make something awesome!*
+
+### 🎓 About Me
+
+> 3rd-year **Information Systems Engineering** student @ **Sakarya University**  
+> I turn ideas into code — from intelligent ML models built from scratch to sleek web experiences.
+
+- 🧠 **ML enthusiast** — Classifiers · Regressors · Neural Networks (yes, from scratch!)
+- 🌐 **Web developer** — HTML · CSS · JavaScript
+- 🏆 **Middle School Maths Olympiad** winner
+- 🎤 Public speaker &nbsp;|&nbsp; 🎵 Music lover &nbsp;|&nbsp; 📚 Future academic tutor
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MamoMGD1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamoMGD1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MamoMGD1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mohammadi-42673021a)
+[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohamma04287387)
+
+*Let's build something awesome together!* 🚀
+
+</div>
